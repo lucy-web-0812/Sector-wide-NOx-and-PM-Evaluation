@@ -1,0 +1,3 @@
+﻿Min Power (kW) ,Max Power (kW) ,Nox,VOC,CH4,HC,NOx/HC+Nox,Engine,Emission Limit Nox (g/kwh)
+400,4000,63,4.8,0.182,4.982,0.926715895,RLL,3.706863582
+150,1000,39.9,4.7,0.179,4.879,0.891042676,RLR,1.951383461

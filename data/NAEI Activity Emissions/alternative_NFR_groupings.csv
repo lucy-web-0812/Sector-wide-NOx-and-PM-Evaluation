@@ -1,0 +1,233 @@
+﻿Source,new_grouping,major_group
+Miscellaneous industrial/commercial combustion,Miscellaneous industrial/commercial combustion,Miscellaneous industrial/commercial combustion
+Power stations,Power stations,Public electricity and heat production
+Heat supply,Heat supply,Public electricity and heat production
+Refineries - combustion,Refineries,Refineries
+Coke production,Coke production,Manufacture of solid fuels and other energy industries
+Collieries - combustion,Collieries,Manufacture of solid fuels and other energy industries
+Gas production,Gas production,Manufacture of solid fuels and other energy industries
+Nuclear fuel production,Nuclear fuel production,Manufacture of solid fuels and other energy industries
+Upstream Oil Production - fuel combustion,Upstream Oil Production,Manufacture of solid fuels and other energy industries
+Oil terminal: fuel combustion,Oil terminal,Manufacture of solid fuels and other energy industries
+Gas terminal: fuel combustion,Gas terminal,Manufacture of solid fuels and other energy industries
+Upstream Gas Production - fuel combustion,Upstream Gas Production,Manufacture of solid fuels and other energy industries
+Blast furnaces,Blast furnaces,Manufacturing Industries and Construction
+Sinter production,Sinter production,Manufacturing Industries and Construction
+Iron and steel - combustion plant,Iron and steel,Manufacturing Industries and Construction
+Autogenerators,Autogenerators,Manufacturing Industries and Construction
+Autogeneration - exported to grid,Autogenerators,Manufacturing Industries and Construction
+Non-Ferrous Metal (combustion),Non-Ferrous Metal,Manufacturing Industries and Construction
+Ammonia production - combustion,Ammonia production,Manufacturing Industries and Construction
+Chemicals (combustion),Chemicals,Manufacturing Industries and Construction
+Methanol production - combustion,Methanol production,Manufacturing Industries and Construction
+"Pulp, Paper and Print (combustion)","Pulp, Paper and Print",Manufacturing Industries and Construction
+"Food & drink, tobacco (combustion)","Food & drink, tobacco",Manufacturing Industries and Construction
+Lime production - non decarbonising,Lime production,Manufacturing Industries and Construction
+Cement - non-decarbonising,Cement,Manufacturing Industries and Construction
+Mineral products (other): combustion,Mineral products (other),Manufacturing Industries and Construction
+NRMM: Construction,NRMM,NRMM
+NRMM: Generators,NRMM,NRMM
+NRMM: Mining and Quarrying,NRMM,NRMM
+NRMM: Other Industry,NRMM,NRMM
+NRMM: Waste,NRMM,NRMM
+Other industrial combustion,Other industrial combustion,Manufacturing Industries and Construction
+Mechanical Engineering (combustion),Mechanical Engineering,Manufacturing Industries and Construction
+Aircraft - international take off and landing,Aircraft,Aircraft
+Aircraft between UK and CDs - TOL,Aircraft,Aircraft
+Aircraft between UK and Gibraltar - TOL,Aircraft,Aircraft
+Aircraft between UK and other OTs (excl Gib. and Bermuda) - TOL,Aircraft,Aircraft
+Aircraft between UK and Bermuda - TOL,Aircraft,Aircraft
+Aircraft - domestic take off and landing,Aircraft,Aircraft
+Road transport - cars - rural driving,Road transport - cars,Road transport
+Road transport - cars - urban driving,Road transport - cars,Road transport
+Road transport - cars - motorway driving,Road transport - cars,Road transport
+Road transport - cars - cold start,Road transport - cars,Road transport
+Road transport - all vehicles LPG use,Road transport - all vehicles LPG use,Road transport
+Road transport - LGVs - rural driving,Road transport - LGVs,Road transport
+Road transport - LGVs - urban driving,Road transport - LGVs,Road transport
+Road transport - LGVs - motorway driving,Road transport - LGVs,Road transport
+Road transport - LGVs - cold start,Road transport - LGVs,Road transport
+Road transport - buses and coaches - rural driving,Road transport - buses and coaches,Road transport
+Road transport - HGV articulated - rural driving,Road transport - HGV,Road transport
+Road transport - HGV rigid - rural driving,Road transport - HGV,Road transport
+Road transport - buses and coaches - urban driving,Road transport - buses and coaches,Road transport
+Road transport - HGV articulated - urban driving,Road transport - HGV,Road transport
+Road transport - HGV rigid - urban driving,Road transport - HGV,Road transport
+Road transport - buses and coaches - motorway driving,Road transport - buses and coaches,Road transport
+Road transport - HGV articulated - motorway driving,Road transport - HGV,Road transport
+Road transport - HGV rigid - motorway driving,Road transport - HGV,Road transport
+Road transport - buses and coaches - cold start,Road transport - buses and coaches,Road transport
+Road transport - HGV articulated - cold start,Road transport - HGV,Road transport
+Road transport - HGV rigid - cold start,Road transport - HGV,Road transport
+Road transport - general,Road transport - general,Road transport
+Road transport - motorcycle (>50cc  4st) - rural driving,Road transport - motorcycle,Road transport
+Road transport - mopeds (<50cc 2st) - urban driving,Road transport - mopeds,Road transport
+Road transport - motorcycle (>50cc  2st) - urban driving,Road transport - motorcycle,Road transport
+Road transport - motorcycle (>50cc  4st) - urban driving,Road transport - motorcycle,Road transport
+Road transport - motorcycle (>50cc  4st) - motorway driving,Road transport - motorcycle,Road transport
+Railways - intercity,Railways,Railways
+Railways - regional,Railways,Railways
+Railways - freight,Railways,Railways
+Rail - coal,Railways,Railways
+Shipping - coastal,Shipping,Shipping
+Sailing boats with auxiliary engines,Sailing boats with auxiliary engines,Other naval
+"Motorboats / workboats (e.g. canal boats, dredgers, service boats, tourist boats, river boats)","Motorboats / workboats (e.g. canal boats, dredgers, service boats, tourist boats, river boats)",Other naval
+Personal watercraft e.g. jet ski,Personal watercraft e.g. jet ski,Other naval
+Inland goods-carrying vessels,Inland goods-carrying vessels,Shipping
+Shipping between UK and Gibraltar,Shipping,Shipping
+Shipping between UK and OTs (excl. Gib and Bermuda),Shipping,Shipping
+Shipping between UK and Bermuda,Shipping,Shipping
+Shipping between UK and CDs,Shipping,Shipping
+NRMM: Airport,NRMM,NRMM
+NRMM: Refrigerated Transport,NRMM,NRMM
+NRMM: Sea Ports,NRMM,NRMM
+Public sector combustion,Public sector combustion,Public electricity and heat production
+Railways - stationary combustion,Railways,Railways
+NRMM: Forklifts,NRMM,NRMM
+Domestic Fireplace - Standard,Domestic combustion,Domestic combustion
+Domestic Closed Stove - Basic,Domestic combustion,Domestic combustion
+Domestic Boiler,Domestic combustion,Domestic combustion
+Domestic Outdoor,Domestic combustion,Domestic combustion
+Domestic Space Heater,Domestic combustion,Domestic combustion
+Domestic Water Heater,Domestic combustion,Domestic combustion
+Domestic Cooking and Other,Domestic combustion,Domestic combustion
+Domestic combustion,Domestic combustion,Domestic combustion
+Domestic Closed Stove - Upgraded,Domestic combustion,Domestic combustion
+Domestic Closed Stove - EcoDesign,Domestic combustion,Domestic combustion
+House and garden machinery,House and garden machinery,NRMM
+Agriculture - stationary combustion,Agriculture,Agriculture
+Forestry Machinery,NRMM,NRMM
+NRMM: Agriculture,NRMM,NRMM
+Fishing vessels,Fishing vessels,Shipping
+Aircraft -  military,Aircraft,Aircraft
+Shipping - naval,Shipping,Shipping
+Solid smokeless fuel production,Solid smokeless fuel production,Fugitive Emissions from Fuels
+Iron and steel - flaring,Iron and steel,Fugitive Emissions from Fuels
+Charcoal production,Charcoal production,Fugitive Emissions from Fuels
+Upstream Oil Production - Offshore Well Testing,Upstream Oil Production,Fugitive Emissions from Fuels
+Upstream Oil Production: direct process emissions,Upstream Oil Production,Fugitive Emissions from Fuels
+Upstream Gas Production - Offshore Well Testing,Upstream Gas Production,Fugitive Emissions from Fuels
+Gas Terminal: Other Fugitives,Gas Terminal,Fugitive Emissions from Fuels
+Upstream Gas Production: direct process emissions,Upstream Gas Production,Fugitive Emissions from Fuels
+Upstream Oil Production - flaring,Upstream Gas Production,Fugitive Emissions from Fuels
+Oil Terminal: Gas Flaring,Oil Terminal,Fugitive Emissions from Fuels
+Gas Terminal: Gas Flaring,Gas Terminal,Fugitive Emissions from Fuels
+Onshore oil production: gas flaring,Onshore oil production,Fugitive Emissions from Fuels
+Upstream Gas Production - flaring,Upstream Gas Production,Fugitive Emissions from Fuels
+Upstream Oil Production - venting,Upstream Gas Production,Fugitive Emissions from Fuels
+Upstream Gas Production - venting,Upstream Gas Production,Fugitive Emissions from Fuels
+Gas Terminal: Venting,Gas Terminal,Fugitive Emissions from Fuels
+Chemical industry - nitric acid use,Chemical industry,Chemical industry
+Nitric acid production,Nitric acid production,Chemical industry
+Adipic acid production,Adipic acid production,Chemical industry
+Electric arc furnaces,Electric arc furnaces,Metal production
+Basic oxygen furnaces,Basic oxygen furnaces,Metal production
+Primary aluminium production - general,Primary aluminium production,Metal production
+Primary aluminium production - anode baking,Primary aluminium production,Metal production
+Non-ferrous metal processes,Non-ferrous metal processes,Metal production
+Cigarette smoking,Cigarette smoking,Cigarette smoking
+Fireworks,Fireworks,Fireworks
+Paper production,Paper production,Paper production
+Dairy - Dairy Cows,Dairy,Agriculture
+Other cattle - Beef females for slaughter,Other cattle,Agriculture
+Other cattle - Bulls for breeding,Other cattle,Agriculture
+Other cattle - Cereal fed bull,Other cattle,Agriculture
+Other cattle - Cows,Other cattle,Agriculture
+Other cattle - Dairy Calves Female,Other cattle,Agriculture
+Other cattle - Dairy Replacements Female,Other cattle,Agriculture
+Other cattle - Dairy In Calf Heifers,Other cattle,Agriculture
+Other cattle - Heifers for breeding,Other cattle,Agriculture
+Other cattle - Steers,Other cattle,Agriculture
+Sheep - Ewe,Sheep,Agriculture
+Sheep - Lamb,Sheep,Agriculture
+Sheep - Ram,Sheep,Agriculture
+Pig - Boar,Pig,Agriculture
+Pig - Fattening Pig 20 to 80 kg,Pig,Agriculture
+Pig - Fattening Pig < 20 kg,Pig,Agriculture
+Pig - Fattening Pig > 80 kg,Pig,Agriculture
+Pig - Gilt,Pig,Agriculture
+Pig - Sow,Pig,Agriculture
+Goats,Goats,Agriculture
+Agricultural Horses,Agricultural Horses,Agriculture
+Poultry - Laying Hens,Poultry,Agriculture
+Poultry - Broilers,Poultry,Agriculture
+Poultry - Turkeys,Poultry,Agriculture
+Poultry - Breeding Flock,Poultry,Agriculture
+Poultry - Ducks,Poultry,Agriculture
+Poultry - Geese,Poultry,Agriculture
+Poultry - Growing Pullets,Poultry,Agriculture
+Poultry - Other,Poultry,Agriculture
+Deer,Deer,Agriculture
+Arable,Arable,Agriculture
+Grass,Grass,Agriculture
+Sewage Sludge Cake - Total N,Sewage Sludge Cake,Agriculture
+Sewage Sludge Liquid - Total N,Sewage Sludge Liquid,Agriculture
+Other cattle - Beef females for slaughter - Digestate,Other cattle,Agriculture
+Poultry - Broilers - Digestate,Poultry,Agriculture
+Other cattle - Bulls for breeding - Digestate,Other cattle,Agriculture
+Other cattle - Cereal fed bull - Digestate,Other cattle,Agriculture
+Other cattle - Cows - Digestate,Other cattle,Agriculture
+Other cattle - Dairy Calves Female - Digestate,Other cattle,Agriculture
+Other cattle - Dairy Replacements Female - Digestate,Other cattle,Agriculture
+Other cattle - Dairy In Calf Heifers - Digestate,Other cattle,Agriculture
+Dairy - Dairy Cows - Digestate,Dairy,Agriculture
+Crop Digestates - Total N,Crop Digestates,Agriculture
+Other cattle - Heifers for breeding - Digestate,Other cattle,Agriculture
+Poultry - Laying Hens - Digestate,Poultry,Agriculture
+Poultry - Other - Digestate,Poultry,Agriculture
+Other cattle - Steers - Digestate,Other cattle,Agriculture
+Poultry - Turkeys - Digestate,Poultry,Agriculture
+Poultry - Breeding Flock - Digestate,Poultry,Agriculture
+Poultry - Growing Pullets - Digestate,Poultry,Agriculture
+Other organic residue Digestates - Total N,Other organic residue Digestates,Agriculture
+Poultry - Ducks - Digestate,Poultry,Agriculture
+Poultry - Geese - Digestate,Poultry,Agriculture
+Food Digestates - Total N,Food Digestates,Agriculture
+Pig - Boar - Digestate,Pig,Agriculture
+Pig - Fattening Pig 20 to 80 kg - Digestate,Pig,Agriculture
+Pig - Fattening Pig < 20 kg - Digestate,Pig,Agriculture
+Pig - Fattening Pig > 80 kg - Digestate,Pig,Agriculture
+Pig - Gilt - Digestate,Pig,Agriculture
+Pig - Sow - Digestate,Pig,Agriculture
+Arable - Direct,Arable,Agriculture
+Grass - Direct,Grass,Agriculture
+Field burning,Field burning,Agriculture
+Incineration,Incineration,Waste Incineration
+Incineration - chemical waste,Incineration,Waste Incineration
+Incineration - clinical waste,Incineration,Waste Incineration
+Incineration - sewage sludge,Incineration,Waste Incineration
+Crematoria,Crematoria,Waste Incineration
+Incineration - animal carcases,Incineration,Waste Incineration
+Foot and mouth pyres,Incineration,Waste Incineration
+Small-scale waste burning,Incineration,Waste Incineration
+Accidental fires - vehicles,Accidental fires,Accidental fires
+Accidental fires - dwellings,Accidental fires,Accidental fires
+Accidental fires - other buildings,Accidental fires,Accidental fires
+Professional horses,Horses,Agriculture
+Domestic Horses,Horses,Agriculture
+Other LULUCF,Other LULUCF,Other LULUCF
+Other LULUCF - Cropland remaining Cropland - Biomass Burning - Wildfires,Other LULUCF,Other LULUCF
+Forestry - Forest Land converted to Cropland - Biomass Burning - Controlled Burning,Forestry,Biomass Burning - wildfires and controlled
+Other LULUCF - Grassland remaining Grassland - Biomass Burning - Wildfires,Other LULUCF,Biomass Burning - wildfires and controlled
+Forestry - Forest Land converted to Grassland - Biomass Burning - Controlled Burning,Forestry,Biomass Burning - wildfires and controlled
+Forestry - Forest Land converted to Settlements - Biomass Burning - Controlled Burning,Forestry,Biomass Burning - wildfires and controlled
+Forestry - Forest Land converted to Other Wetlands - Biomass Burning - Controlled Burning,Forestry,Biomass Burning - wildfires and controlled
+Accidental fires - forests,Accidental fires,Accidental fires
+Accidental fires - vegetation,Accidental fires,Accidental fires
+Accidental fires - straw,Accidental fires,Accidental fires
+Aircraft - international cruise,Aircraft,Aircraft
+Aircraft between UK and CDs - Cruise,Aircraft,Aircraft
+Aircraft between UK and Gibraltar - Cruise,Aircraft,Aircraft
+Aircraft between UK and other OTs (excl Gib. and Bermuda) - Cruise,Aircraft,Aircraft
+Aircraft between UK and Bermuda - Cruise,Aircraft,Aircraft
+Aircraft - domestic cruise,Aircraft,Aircraft
+Shipping - international IPCC definition,Shipping,Shipping
+Exports,Exports,Exports
+Industrial engines,Other industrial combustion,Other industrial combustion
+Aircraft engines,Aircraft,Aircraft
+Road transport - all vehicles biofuels use,Road transport - all vehicles biofuels use,Road transport
+Marine engines,Shipping,Shipping
+Agricultural engines,Agriculture,Agriculture
+Gas leakage,Fugitive Emissions from Fuels,Fugitive Emissions from Fuels
+Chemical industry - methanol,Methanol production,Chemical industry
+Road vehicle engines,Road transport - general,Road transport

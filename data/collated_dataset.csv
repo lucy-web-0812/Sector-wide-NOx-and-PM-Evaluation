@@ -1,0 +1,104 @@
+Product,Power (kW),NOx (mg/kWh),Fuel,Directive
+Fast RPM Marine,749,2000,Marine Fuel,MARPOL
+Medium RPM Marine,1790,2200,Marine Fuel,MARPOL
+Slow RPM Marine,80080,3400,Marine Fuel,MARPOL
+Locomotive,2200,3706.863582,Diesel,NRMM
+Railcar,575,1951.3834610000001,Diesel,NRMM
+Asphalt pavers/concrete pavers ,88,1517.2135439455558,Diesel,NRMM
+Plate compactor/tampers/rammers ,2,1539.379475,4SG,NRMM
+Plate compactor/tampers/rammers ,12,6333.904800399569,Diesel,NRMM
+Plate compactor/tampers/rammers ,2,22.542831,2SG,NRMM
+Rollers,196,1029.5907368628923,Diesel,NRMM
+Rollers (Modern),29,5009.079356656646,Diesel,NRMM
+Trenchers/mini excavators ,25,4902.5208089509115,Diesel,NRMM
+Excavators (wheel /crawler type) - Medium,275,443.3840811965813,Diesel,NRMM
+Cement and mortar mixers - Large,5,1539.379475,4SG,NRMM
+Cement and mortar mixers - Small,23,5163.536979438107,Diesel,NRMM
+Graders,120,539.4488324175826,Diesel,NRMM
+Scrapers,415,1166.842105263158,Diesel,NRMM
+Off-highway trucks,400,400,Diesel,NRMM
+Bulldozers,140,841.4857872080751,Diesel,NRMM
+Mini Loader,28,4537.098170268838,Diesel,NRMM
+Medium size Loader,80,1132.1063701923083,Diesel,NRMM
+Large Loaders,185,400,Diesel,NRMM
+Backhoe Loader,70,2013.701115699267,Diesel,NRMM
+Skid steer loader,38,3999.910308269013,Diesel,NRMM
+Dumpers and tenders,28,4972.654830161263,Diesel,NRMM
+Dumpers and tenders,8,2389.2812018000004,4SG,NRMM
+Aerial lifts,7,21.868436999999997,2SG,NRMM
+Aerial lifts,15,5852.434271346151,Diesel,NRMM
+Fork lifts,60,2092.0045468976778,Diesel,NRMM
+Small Generator,3,6729.634002,Diesel,NRMM
+Medium Generator ,53,2771.4979357444045,Diesel,NRMM
+Larger Generator ,330,406.7391304347827,Diesel,NRMM
+Generator > 560kW,780,670,Diesel,NRMM
+Pumps,6,19.9738307,2SG,NRMM
+Pumps,15,2688.463221,4SG,NRMM
+Pumps,45,3107.207275036284,Diesel,NRMM
+Air/gas compressors ,65,2160.4012171264726,Diesel,NRMM
+Welders,5,1964.3303383999998,4SG,NRMM
+Welders,65,2160.4012171264726,Diesel,NRMM
+Refrigerating units,15,6228.377013209778,Diesel,NRMM
+Professional Chain Saw,4,22.542831,2SG,NRMM
+Forest tractors/harvesters/skidders,50,2724.8723693759075,Diesel,NRMM
+Trimmers/strimmers/edgers/brush cutters ,1,1543.845204,2SG,NRMM
+Lawn Mowers,3,1539.379475,4SG,NRMM
+Lawn Mowers - Ride on,10,6729.63400236128,Diesel,NRMM
+Hobby chain saws,2,22.542831,2SG,NRMM
+NRE-v-5,93,400,NA,NRMM
+NRE-c-5,93,400,NA,NRMM
+NRE-v-6,345,400,NA,NRMM
+NRE-c-6,345,400,NA,NRMM
+NRE-v-7,560,3500,NA,NRMM
+NRE-c-7,560,3500,NA,NRMM
+NRG-v-1,560,670,NA,NRMM
+NRG-c-1,560,670,NA,NRMM
+IWP-v-3,215,2100,NA,NRMM
+IWP-c-3,215,2100,NA,NRMM
+IWP-v-4,300,1800,NA,NRMM
+IWP-c-4,300,1800,NA,NRMM
+IWA-v-3,215,2100,NA,NRMM
+IWA-c-3,215,2100,NA,NRMM
+IWA-v-4,300,1800,NA,NRMM
+IWA-c-4,300,1800,NA,NRMM
+Gas Turbine,3000,101.9367991845056,Gas,MCP
+Gas Engine,3000,193.67991845056065,Gas,MCP
+Gas Boiler,3000,203.8735983690112,Gas,MCP
+Biomass Boiler,3000,1929.0123456790125,Biomass,MCP
+Coal Boiler,3000,1810.8068955526583,Coal,MCP
+Gas Turbine,27500,101.9367991845056,Gas,MCP
+Gas Engine,27500,193.67991845056065,Gas,MCP
+Gas Boiler,27500,203.8735983690112,Gas,MCP
+Biomass Boiler,27500,1157.4074074074074,Biomass,MCP
+Coal Boiler,27500,1086.484137331595,Coal,MCP
+Gas Turbine,75000,101.9367991845056,Gas,IED
+Gas Engine,75000,152.9051987767584,Gas,IED
+Gas Boiler,75000,203.8735983690112,Gas,IED
+Biomass Boiler,75000,964.5061728395062,Biomass,IED
+Coal Boiler,75000,1086.484137331595,Coal,IED
+Gas Turbine,200000,101.9367991845056,Gas,IED
+Gas Engine,200000,152.9051987767584,Gas,IED
+Gas Boiler,200000,203.8735983690112,Gas,IED
+Biomass Boiler,200000,771.604938271605,Biomass,IED
+Coal Boiler,200000,724.3227582210633,Coal,IED
+Gas Turbine,1650000,101.9367991845056,Gas,IED
+Gas Engine,1650000,152.9051987767584,Gas,IED
+Gas Boiler,1650000,203.8735983690112,Gas,IED
+Biomass Boiler,1650000,578.7037037037037,Biomass,IED
+Coal Boiler,1650000,543.2420686657975,Coal,IED
+Commercial Aircraft Turbofan Engine,42692.71523178808,1329.787234042553,Kerosene,ICAO
+Passenger Vehicle,100,484.84848484848476,Diesel,Road Transport
+Passenger Vehicle,100,467.8362573099415,Petrol,Road Transport
+Motor Cycles,9,467.8362573099415,Petrol,Road Transport
+Light Commercial Vehicles 1760 - 3500 kg reference mass,125,420.8754208754209,Diesel,Road Transport
+Light Commercial Vehicles 1760 - 3500 kg reference mass,125,345.2631578947368,Petrol,Road Transport
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",100,353.5353535353535,Diesel,Road Transport
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",100,315.7894736842105,Petrol,Road Transport
+"Light Commercial Vehicles < 1,305kg reference mass",77,269.36026936026934,Diesel,Road Transport
+"Light Commercial Vehicles < 1,305kg reference mass",77,252.63157894736838,Petrol,Road Transport
+Heavy Duty Diesel Engines,460,400,Diesel,Road Transport
+Commercial LPG boiler,71.66666666666667,54.36666666666667,LPG,Eco-Design
+Residential LPG boiler,35.333333333333336,25.761904761904763,LPG,Eco-Design
+Commercial NG boiler,82.85714285714286,34.542857142857144,NG,Eco-Design
+Residential NG boiler,33.41379310344828,28.82758620689655,NG,Eco-Design
+Residential Oil boiler,27.2,106.6,Oil,Eco-Design

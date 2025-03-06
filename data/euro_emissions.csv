@@ -1,0 +1,97 @@
+﻿Type of Vehicle,Category,Tier/Standard,Fuel,Date (first registration),Nox (g/km),Nox (g/kwh) ,PM (g/km),Notes
+Passenger Vehicle,M,Euro 2,Diesel,Jan-97,n/a,,0.08,
+Passenger Vehicle,M,Euro 2,Petrol,Jan-97,n/a,,n/a,
+Passenger Vehicle,M,Euro 1,Diesel,Jan-93,n/a,,0.14,
+Passenger Vehicle,M,Euro 1,Petrol,Jan-93,n/a,,n/a,
+Passenger Vehicle,M,Euro 3,Diesel,Jan-01,0.5,,0.05,
+Passenger Vehicle,M,Euro 4,Diesel,Jan-06,0.25,,0.025,
+Passenger Vehicle,M,Euro 5b,Diesel,Jan-13,0.18,,0.0045,
+Passenger Vehicle,M,Euro 5a,Diesel,Jan-11,0.18,,0.005,
+Passenger Vehicle,M,Euro 3,Petrol,Jan-01,0.15,,n/a,
+Passenger Vehicle,M,Euro 7 ,Diesel ,Jul-25,0.06,,0.0045,
+Passenger Vehicle,M,Euro 7,Petrol,Jul-25,0.06,,0.0045,
+Passenger Vehicle,M,Euro 6d,Diesel,Jan-21,0.08,,0.0045,
+Passenger Vehicle,M,Euro 6d,Petrol,Jan-21,0.06,,0.0045,
+Passenger Vehicle,M,Euro 4,Petrol,Jan-06,0.08,,n/a,
+Passenger Vehicle,M,Euro 6d-Temp,Diesel,Sep-19,0.08,,0.0045,
+Passenger Vehicle,M,Euro 6d-Temp,Petrol,Sep-19,0.06,,0.0045,
+Passenger Vehicle,M,Euro 6c,Diesel,Sep-18,0.08,,0.0045,
+Passenger Vehicle,M,Euro 6c,Petrol,Sep-18,0.06,,0.0045,
+Passenger Vehicle,M,Euro 6b,Diesel,Sep-15,0.08,,0.0045,
+Passenger Vehicle,M,Euro 6b,Petrol,Sep-15,0.06,,0.0045,
+Passenger Vehicle,M,Euro 5b,Petrol,Jan-13,0.06,,0.0045,
+Passenger Vehicle,M,Euro 5a,Petrol,Jan-11,0.06,,0.005,
+Motor Cycles,L,Euro II,Petrol,2003,0.3,,n/a,Direct Injection engines only
+Motor Cycles,L,Euro I,Petrol,1999,0.3,,n/a,Direct Injection engines only
+Motor Cycles,L,Euro III,Petrol,2006,0.15,,n/a,
+Motor Cycles,L,Euro IV,Petrol,2016,0.09,,n/a,
+Motor Cycles,L,Euro V,Petrol,2020,0.06,,0.0045,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 2,Diesel,Oct-99,n/a,,0.17,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 2,Petrol,Oct-99,n/a,,n/a,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 1,Diesel,Oct-94,n/a,,0.25,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 1,Petrol,Oct-94,n/a,,n/a,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 3,Diesel,Jan-02,0.78,,0.1,Direct Injection engines only
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 4,Diesel,Jan-07,0.39,,0.06,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 5b,Diesel,Jan-13,0.28,,0.0045,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 5a,Diesel,Jan-12,0.28,,0.005,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 3,Petrol,Jan-02,0.21,,n/a,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 6d,Diesel,Jan-22,0.125,,0.0045,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 4,Petrol,Jan-07,0.11,,n/a,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 6d,Petrol,Jan-21,0.082,,0.0045,Direct Injection engines only
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 6d-Temp,Diesel,Sep-20,0.125,,0.0045,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 6d-Temp,Petrol,Sep-20,0.082,,0.0045,Direct Injection engines only
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 6c,Diesel,Sep-19,0.125,,0.0045,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 6c,Petrol,Sep-19,0.082,,0.0045,Direct Injection engines only
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 5b,Petrol,Jan-13,0.082,,0.0045,Direct Injection engines only
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 5a,Petrol,Jan-12,0.082,,0.005,Direct Injection engines only
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 6b,Diesel,Sep-16,0.125,,0.0045,
+Light Commercial Vehicles 1760 - 3500 kg reference mass,N1 Class III,Euro 6b,Petrol,Sep-16,0.082,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 2,Diesel,Oct-98,n/a,,0.12,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 2,Petrol,Oct-98,n/a,,n/a,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 1,Diesel,Oct-94,n/a,,0.19,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 1,Petrol,Oct-94,n/a,,n/a,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 3,Diesel,Jan-02,0.65,,0.07,Direct Injection engines only
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 4,Diesel,Jan-07,0.33,,0.04,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 5b,Diesel,Jan-13,0.235,,0.0045,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 5a,Diesel,Jan-12,0.235,,0.005,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 3,Petrol,Jan-02,0.18,,n/a,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 6d,Diesel,Jan-22,0.105,,0.0045,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 6d,Petrol,Jan-22,0.075,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 4,Petrol,Jan-07,0.1,,n/a,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 6d-Temp,Diesel,Sep-20,0.105,,0.0045,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 6d-Temp,Petrol,Sep-20,0.075,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 6c,Diesel,Sep-19,0.105,,0.0045,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 6c,Petrol,Sep-19,0.075,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 5b,Petrol,Jan-13,0.075,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 5a,Petrol,Jan-12,0.075,,0.005,Direct Injection engines only
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 6b,Diesel,Sep-16,0.105,,0.0045,
+"Light Commercial Vehicles 1,305 - 1760 kg reference mass",N1 Class II,Euro 6b,Petrol,Sep-16,0.075,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 2,Diesel,Oct-97,n/a,,0.08,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 2,Petrol,Oct-97,n/a,,n/a,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 1,Diesel,Oct-94,n/a,,0.14,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 1,Petrol,Oct-94,n/a,,n/a,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 3,Diesel,Jan-01,0.5,,0.05,Direct Injection engines only
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 4,Diesel,Jan-06,0.25,,0.025,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 5b,Diesel,Jan-13,0.18,,0.0045,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 5a,Diesel,Jan-11,0.18,,0.005,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 3,Petrol,Jan-01,0.15,,n/a,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 6d,Diesel,Jan-21,0.08,,0.0045,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 6d,Petrol,Jan-21,0.06,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 4,Petrol,Jan-06,0.08,,n/a,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 6d-Temp,Diesel,Sep-19,0.08,,0.0045,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 6d-Temp,Petrol,Sep-19,0.06,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 6c,Diesel,Sep-18,0.08,,0.0045,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 6c,Petrol,Sep-18,0.06,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 5b,Petrol,Jan-13,0.06,,0.0045,Direct Injection engines only
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 5a,Petrol,Jan-11,0.06,,0.005,Direct Injection engines only
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 6b,Diesel,Sep-15,0.08,,0.0045,
+"Light Commercial Vehicles < 1,305kg reference mass",N1 Class I,Euro 6b,Petrol,Sep-15,0.06,,0.0045,Direct Injection engines only
+Heavy Duty Diesel Engines ,,Euro VI,Diesel,Jan-13,n/a,0.4,0.01,
+Heavy Duty Diesel Engines ,,Euro V,Diesel,Oct-08,n/a,2,0.02,
+Heavy Duty Diesel Engines ,,Euro IV,Diesel,Oct-05,n/a,3.5,0.02,
+Heavy Duty Diesel Engines ,,Euro III,Diesel,Oct-00,n/a,5,0.1,
+Heavy Duty Diesel Engines ,,Euro III,Diesel,Oct-99,n/a,2,0.02,EEV only (enhanced environmentally friendly vehicle)
+Heavy Duty Diesel Engines ,,Euro II,Diesel,Oct-98,n/a,7,0.15,
+Heavy Duty Diesel Engines ,,Euro II,Diesel,Oct-96,n/a,7,0.25,
+Heavy Duty Diesel Engines ,,Euro I,Diesel,1992,n/a,8,0.612,<85 kW
+Heavy Duty Diesel Engines ,,Euro I,Diesel,1992,n/a,8,0.36,>85 kW

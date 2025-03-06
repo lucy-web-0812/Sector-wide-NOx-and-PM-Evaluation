@@ -1,0 +1,48 @@
+﻿category,product,snap_code,fuel,power_min,power_max,NRMM_engine_sub_cat_min ,nox_limit_min_cat_gkwh,NRMM_engine_sub_cat_max,nox_limit_max_cat_gkwh,,,,engine_sub_category,fuel,nox_limit
+Industry,Pilers,80700,Diesel,56,,NRE-5,0.4,,,,,,NRE-1,Diesel,6.729634002
+Industry,Asphalt pavers/concrete pavers ,80801,Diesel,15,160,NRE-2,6.729634002,NRE-5,0.4,,,,NRE-2,Diesel,6.729634002
+Industry,Plate compactor/tampers/rammers ,80802,4SG,1,3,NRE-1,1.539379475,,,,,,NRE-3,Diesel,4.223349057
+Industry,Plate compactor/tampers/rammers ,80802,Diesel,2,21,NRE-1,6.729634002,NRE-3,4.223349057,,,,NRE-4,Diesel,4.304567308
+Industry,Plate compactor/tampers/rammers ,80802,2SG,1,3,NRE-1,0.022542831,,,,,,NRE-5,Diesel,0.4
+Industry,Rollers,80803,Diesel,2,390,NRE-1,6.729634002,NRE-6,0.4,,,,NRE-6,Diesel,0.4
+Industry,Rollers (Modern),80803,Diesel,2,55,NRE-1,6.729634002,NRE-4,4.304567308,,,,NRE-7,Diesel,3.5
+Industry,Trenchers/mini excavators ,80804,Diesel,10,40,NRE-2,6.729634002,NRE-4,4.304567308,,,,NRG-1,Diesel,0.67
+Industry,Excavators (wheel /crawler type) - Medium,80805,Diesel,50,500,NRE-4,4.304567308,NRE-6,0.4,,,,NRSh-1,Diesel,44.86422668
+Industry,Excavators (wheel /crawler type) - Large,80805,Diesel,500,3000,NRE-6,0.4,NRE-7,3.5,,,,NRE-1,2SG,0.022542831
+Industry,Cement and mortar mixers - Small,80806,Electric,1,7.5,NRE-1,,,,,,,NRE-2,2SG,0.020969245
+Industry,Cement and mortar mixers - Large,80806,4SG,1,7.5,NRE-1,1.539379475,,,,,,NRE-3,2SG,0.013140727
+Industry,Cement and mortar mixers - Small,80806,Diesel,5,40,NRE-1,6.729634002,NRE-4,4.304567308,,,,NRE-4,2SG,0.016414435
+Industry,Cranes,80807,Generator,100,250,NRE-5,,NRE-6,,,,,NRE-5,2SG,0.4
+Industry,Graders,80808,Diesel,50,190,NRE-4,4.304567308,NRE-6,0.4,,,,NRE-6,2SG,0.4
+Industry,Scrapers,80808,Diesel,130,700,NRE-6,0.4,NRE-7,3.5,,,,NRE-7,2SG,3.5
+Industry,Off-highway trucks,80809,Diesel,300,500,NRE-6,0.4,,,,,,NRG-1,2SG,0.67
+Industry,Bulldozers,80810,Diesel,30,250,NRE-5,0.4,NRE-6,0.4,,,,NRSh-1,2SG,1.543845204
+Industry,Mini Loader,80811,Diesel,15,40,NRE-2,6.729634002,NRE-4,4.304567308,,,,NRE-1,4SG,1.539379475
+Industry,Medium size Loader,80811,Diesel,40,120,NRE-4,4.304567308,NRE-5,0.4,,,,NRE-2,4SG,2.955882353
+Industry,Large Loaders,80811,Diesel,120,250,NRE-5,0.4,NRE-6,0.4,,,,NRE-3,4SG,1.618786693
+Industry,Backhoe Loader,80811,Diesel,10,130,NRE-2,6.729634002,NRE-5,0.4,,,,NRE-4,4SG,1.192195122
+Industry,Skid steer loader,80812,Diesel,15,60,NRE-2,6.729634002,NRE-5,0.4,,,,NRE-5,4SG,0.4
+Industry,Dumpers and tenders,80813,Diesel,5,50,NRE-1,6.729634002,NRE-4,4.304567308,,,,NRE-6,4SG,0.4
+Industry,Dumpers and tenders,80813,4SG,5,10,NRE-1,1.539379475,NRE-2,2.955882353,,,,NRE-7,4SG,3.5
+Industry,Aerial lifts,80814,Electric,0,2,NRE-1,,,,,,,NRG-1,4SG,0.67
+Industry,Aerial lifts,80814,2SG,3,10,NRE-1,0.022542831,NRE-2,0.020969245,,,,NRSh-1,4SG,8.561020036
+Industry,Aerial lifts,80814,Diesel,5,25,NRE-1,6.729634002,NRE-3,4.223349057,,,,,,
+Industry,Fork lifts,80815,Diesel,20,100,NRE-3,4.223349057,NRE-5,0.4,,,,,,
+Industry,Small Generator,80816,Diesel,0.5,5,NRE-1,6.729634002,,,,,,,,
+Industry,Medium Generator ,80816,Diesel,5,100,NRE-1,6.729634002,NRE-5,0.4,,,,,,
+Industry,Larger Generator ,80816,Diesel,100,560,NRE-6,0.4,NRE-7,3.5,,,,,,
+Industry,Generator > 560kW,80816,Diesel,560,1000,NRG-1,0.67,,,,,,,,
+Industry,Pumps,80817,Electric,0.5,70,NRE-1,,NRE-5,,,,,,,
+Industry,Pumps,80817,2SG,0.5,10,NRE-1,0.022542831,NRE-2,0.020969245,,,,,,
+Industry,Pumps,80817,4SG,10,20,NRE-2,2.955882353,NRE-3,1.618786693,,,,,,
+Industry,Pumps,80817,Diesel,20,70,NRE-3,4.223349057,NRE-5,0.4,,,,,,
+Industry,Air/gas compressors ,80818,Diesel,10,120,NRE-2,6.729634002,NRE-5,0.4,,,,,,
+Industry,Welders,80191,4SG,0,10,NRE-1,1.539379475,NRE-2,2.955882353,,,,,,
+Industry,Welders,80191,Diesel,10,120,NRE-2,6.729634002,NRE-5,0.4,,,,,,
+Industry,Refrigerating units,80820,Diesel,10,20,NRE-2,6.729634002,NRE-3,4.223349057,,,,,,
+Forestry,Professional Chain Saw,80701,2SG,2,6,NRE-1,0.022542831,,,,,,,,
+Forestry,Forest tractors/harvesters/skidders,80702,Diesel,25,75,NRE-3,4.223349057,NRE-5,0.4,,,,,,
+Household and Gardening,Trimmers/strimmers/edgers/brush cutters ,80901,2SG,0.25,1.4,NRSh-1,1.543845204,,,,,,,,
+Household and Gardening,Lawn Mowers,80902,4SG,0.5,5,NRE-1,1.539379475,,,,,,,,
+Household and Gardening,Lawn Mowers - Ride on,80902,Diesel,5,15,NRE-1,6.729634002,NRE-2,6.729634002,,,,,,
+Household and Gardening,Hobby chain saws,80903,2SG,1,2,NRE-1,0.022542831,,,,,,,,

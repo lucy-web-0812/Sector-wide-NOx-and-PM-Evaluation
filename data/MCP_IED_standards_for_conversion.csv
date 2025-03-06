@@ -1,0 +1,6 @@
+﻿min_power,max_power,directive,Gas Turbine,Gas Engine,Gas Boiler,Biomass Boiler,Coal Boiler
+1,5,MCP,50,95,100,500,500
+5,50,MCP,50,95,100,300,300
+50,100,IED,50,75,100,250,300
+100,300,IED,50,75,100,200,200
+300,,IED,50,75,100,150,150
