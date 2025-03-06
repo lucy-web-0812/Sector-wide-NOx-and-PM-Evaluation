@@ -207,9 +207,47 @@ collated_data <- mcp_ied_standards_with_conversions |>
 
 
 
+esg_data_raw <- read_xlsx("data/IED_data.xlsx", sheet = "Data") |> 
+  slice_tail(n = 12)
 
 
+colnames(esg_data_raw) <- esg_data_raw[1,]
 
 
+esg_data <- esg_data_raw[-1,] |> 
+  select(c(`Site Name`, `Fuel`, `Total Generation Capacity (GW)`,`Annual Generation (TWh)`, `Nox (g/kWh)`)) |> 
+  filter(Fuel != "Lignite") |> 
+  mutate(Fuel = ifelse(Fuel == "Gas", "Natural Gas", Fuel), 
+         Fuel = ifelse(Fuel == "Hard Coal", "Coal", Fuel),  )
+  
+
+# However for the Uniper and RWE sites, values are reported collectively (not on a plant by plant basis)
+
+DUKES_5_11 <- spiel_remover("data/IED_data.xlsx", sheet = "DUKES 5.11 - May 2023") |> 
+  filter(primary_fuel %in% c("Biomass", "Coal", "Natural Gas", "Diesel/Gas Oil")) |> 
+  mutate(installed_capacity_mw = as.numeric(installed_capacity_mw)) |> 
+  group_by(primary_fuel) |> 
+  summarise(average_of_installed_capacity_gw = mean(installed_capacity_mw, na.rm = T) / 1000) |> 
+  add_row(primary_fuel = "Gas and Coal", average_of_installed_capacity_gw = (1.290 + 0.705)/ 2)
+
+
+  
+
+
+combined_esg_reports <- c("Uniper Europe", "RWE Total")
+
+
+esg_data_with_average_capacities <- esg_data |> 
+  left_join(DUKES_5_11, join_by(Fuel == primary_fuel)) |> 
+  mutate(`Power (kW)` = as.numeric(ifelse(`Site Name` %in% combined_esg_reports, average_of_installed_capacity_gw, `Total Generation Capacity (GW)`))) |> 
+  mutate(`NOx (mg/kWh)` = as.numeric(`Nox (g/kWh)`) * 1000, 
+         Directive = "IED") |> 
+  select(c(`Site Name`, `Fuel`,`NOx (mg/kWh)`, `Power (kW)`, `Directive`)) |> 
+  rename(Product = `Site Name`)
+
+
+collated_data <- esg_data_with_average_capacities |> 
+  rbind(collated_data) |> 
+  distinct()
 
 

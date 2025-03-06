@@ -12,9 +12,11 @@ library(ggsci)
 library(knitr)
 library(ggrepel)
 library(ggpubr)
+library(janitor)
 
 
 source("scripts/rsc_theme.R")
+source("scripts/function_spiel_remover.R")
 
 # Vague colour scheme that sticking to....
 
