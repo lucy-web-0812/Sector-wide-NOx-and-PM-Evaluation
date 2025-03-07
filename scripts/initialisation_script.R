@@ -1,4 +1,4 @@
-# Initialisation Script 
+# Initialisation Script
 
 
 library(tidyverse)
@@ -72,11 +72,35 @@ collated_data$`Power (kW)` <- as.numeric()
 collated_data$`NOx (mg/kWh)` <- as.numeric()
 
  
-source("scripts/1_boilers.R")
-source("scripts/2_euro_emissions.R")
-source("scripts/3_ICAO_aviation.R")
-source("scripts/4_IED_and_MCP.R")
-source("scripts/5_1_NRMM.R")
-source("scripts/5_2_NRMM_NRE_standards.R")
-source("scripts/5_3_trains.R")
-source("scripts/6_MARPOL.R")
+source("scripts/NOx/1_boilers.R")
+source("scripts/NOx/2_euro_emissions.R")
+source("scripts/NOx/3_ICAO_aviation.R")
+source("scripts/NOx/4_IED_and_MCP.R")
+source("scripts/NOx/5_1_NRMM.R")
+source("scripts/NOx/5_2_NRMM_NRE_standards.R")
+source("scripts/NOx/5_3_trains.R")
+source("scripts/NOx/6_MARPOL.R")
+
+
+
+
+
+# -------- PM ----------------
+
+
+
+collated_data_pm <- data.frame()
+
+
+collated_data_pm$Product <- as.character()
+collated_data_pm$Directive <- as.character()
+collated_data_pm$Fuel <- as.character()
+collated_data_pm$`Power (kW)` <- as.numeric()
+collated_data_pm$`PM (mg/kWh)` <- as.numeric()
+
+
+
+
+
+
+

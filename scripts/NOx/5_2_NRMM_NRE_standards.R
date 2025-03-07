@@ -170,7 +170,7 @@ ggplot(diesel_products, aes(x = avg_power, y = weighted_mean_nox)) +
 two_2SG_products <- product_data_long |> 
   filter(fuel == "2SG") 
 
-r <- ggplot(two_2SG_products, aes(x = avg_power, y = weighted_mean_nox)) +
+ggplot(two_2SG_products, aes(x = avg_power, y = weighted_mean_nox)) +
   geom_area(data = filter(complete_df, fuel_engine_type == "max_nox_2SG"), aes(x = power, y = max_nox, fill = engine_category), alpha = 0.8) +
   geom_point() +
   #scale_color_brewer(palette = "Set2") +
@@ -184,7 +184,7 @@ r <- ggplot(two_2SG_products, aes(x = avg_power, y = weighted_mean_nox)) +
 # Note there is one outlying 2SG value. this is due to the product falling into the category NRSh-1. 
 # This has an emission limit values of 1.543845 
 
-ggplotly(r)
+
 
 # --- 4SG --- 
 
