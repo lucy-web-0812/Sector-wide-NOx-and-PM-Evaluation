@@ -13,7 +13,8 @@ raw_data <- read.csv("data/nrmm_products.csv")
 product_list <- raw_data |> 
   select(c(category:nox_limit_max_cat_gkwh)) |> 
   mutate(mean_power = ifelse(is.na(power_max), power_min, ((power_max + power_min) / 2) )) |> 
-  mutate(mean_nox = ifelse(is.na(nox_limit_max_cat_gkwh), nox_limit_min_cat_gkwh, ((nox_limit_max_cat_gkwh + nox_limit_min_cat_gkwh) / 2)))
+  mutate(mean_nox = ifelse(is.na(nox_limit_max_cat_gkwh), nox_limit_min_cat_gkwh, ((nox_limit_max_cat_gkwh + nox_limit_min_cat_gkwh) / 2))) 
+# Look at the 5_2_NRMM script where weighted values have been used instead of this quick method
 
 reference_list <- raw_data |> 
   select(c(engine_sub_category:nox_limit)) |> 
@@ -28,6 +29,7 @@ ggplot(product_list) +
 
 product_list_nrmm <- product_list |> 
   mutate(directive = "NRMM", power_kw = mean_power, nox_mgkwh = mean_nox * 1000 )
+
 
 
 

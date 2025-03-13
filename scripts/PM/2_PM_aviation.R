@@ -27,26 +27,26 @@ plane_power_approx_kw <- summary_values_planes$avg_rated_thrust_kN  * avg_cruise
 # Looking at the this for the total sector
 # https://www.icao.int/Meetings/a41/Documents/WP/wp_093_rev_en.pdf 
 
-total_nox_from_aviation_sector_Mt <- 3
-total_fuel_consumption_from_aviation_sector_Mt <- 188
+total_nvpm_from_aviation_sector_tonnes <- 5000
+total_fuel_consumption_from_aviation_sector_tonnes <- 188 * 1000000
 kerosene_energy_content_kWh_kg <- 12
 
 
-average_nox_g_kWh <- (total_nox_from_aviation_sector_Mt /total_fuel_consumption_from_aviation_sector_Mt)  /  kerosene_energy_content_kWh_kg  * 1000 
+average_pm_g_kWh <- (total_nvpm_from_aviation_sector_tonnes /total_fuel_consumption_from_aviation_sector_tonnes)  /  kerosene_energy_content_kWh_kg  * 1000 
 
 
 # And format it such that can be combined with other datasets to produce the mega plot
 
-plane_data <- data.frame(plane_power_approx_kw, average_nox_g_kWh, summary_values_planes$standard_error_in_thrust)
+plane_data <- data.frame(plane_power_approx_kw, average_pm_g_kWh, summary_values_planes$standard_error_in_thrust)
 
 
 
-collated_data <- plane_data |> 
+collated_data_pm <- plane_data |> 
   mutate(Fuel = "Kerosene", Product = "Commercial Aircraft Turbofan Engine", Directive = "ICAO") |> 
-  mutate(average_nox_mg_kWh = average_nox_g_kWh * 1000) |> 
-  rename(`Power (kW)` = plane_power_approx_kw, `NOx (mg/kWh)` = average_nox_mg_kWh ) |> 
-  select(-c(average_nox_g_kWh, summary_values_planes.standard_error_in_thrust)) |> 
-  rbind(collated_data) |> 
+  mutate(average_pm_mg_kWh = average_pm_g_kWh * 1000) |> 
+  rename(`Power (kW)` = plane_power_approx_kw, `PM (mg/kWh)` = average_pm_mg_kWh ) |> 
+  select(-c(average_pm_g_kWh, summary_values_planes.standard_error_in_thrust)) |> 
+  rbind(collated_data_pm) |> 
   distinct()
 
 
